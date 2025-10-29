@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>   // for sqrt() and pow()
+#include <cmath>   // untuk sqrt() and pow()
 using namespace std;
 
 //Konstanta nilai PI
@@ -50,4 +50,5 @@ int main() {
     cout << "Circumference: " << c << endl;
     cout << "Area: " << a << endl;
 }
+
 
